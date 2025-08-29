@@ -1,6 +1,6 @@
 # task_manager
 
-A new Flutter project.
+A Flutter project, That is used to manage the task like adding task, edit task, mark completed.
 
 ## Getting Started
 
